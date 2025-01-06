@@ -1,4 +1,4 @@
-# hhbk-user-managment
+# hhbk-user-management
 
 In diesem Repository finden Sie die Unterlagen für die Programmieraufgabe "Nutzerverwaltung".
 
