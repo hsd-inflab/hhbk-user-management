@@ -1,10 +1,9 @@
 ## Course 0: Setup
 
-For the following courses you need to install
+For the following courses you need to install (If you wish to use Java)
 
 1) **Java 17** 
 2) **VsCode** 
-3) **Maven**
 
 on your computer.
 
@@ -59,23 +58,7 @@ on your computer.
   
   
 - [VSCode Java extension pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
-- [VSCode Spring Boot extension pack](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack)
 
-- Maven
-  - via chocolatey (recommended):  
-     ```powershell
-     choco install maven
-     ```
-  - or via installer (slower):
-    (https://maven.apache.org/install.html)
-
-***OPTIONAL***
-- Gluon Scene Builder  
-  - via chocolatey (recommended):
-      ```powershell
-      choco install scenebuilder
-      ```
-  - or via installer: [Gluon Scene Builder Installer](https://gluonhq.com/products/scene-builder)
 
 - If you used chocolatey for installation, you can use the command
   ```powershell
@@ -119,19 +102,6 @@ on your computer.
     brew install --cask visual-studio-code
     ```
 - [VSCode Java extension pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
-- [VSCode Spring Boot extension pack](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack)
-- Gluon Scene Builder
-  - Either via installer: [Gluon Scene Builder Installer](https://gluonhq.com/products/scene-builder)
-  - Or via brew:
-    ```
-    brew install --cask scenebuilder
-    ```
-- Maven
-  - Either manually using these setup instructions: [Maven - Installing](https://maven.apache.org/install.html)
-  - Or via brew:
-    ```
-    brew install maven
-    ```
 </details>
 
 
@@ -149,18 +119,6 @@ on your computer.
     sudo snap install code --classic
     ```
 - [VSCode Java extension pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
-- [VSCode Spring Boot extension pack](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack)
-- Gluon Scene Builder
-  - via installer: [Gluon Scene Builder Installer](https://gluonhq.com/products/scene-builder)
-  - or via terminal:
-    ```bash
-    wget https://download2.gluonhq.com/scenebuilder/17.0.0/install/linux/SceneBuilder-17.0.0.deb
-    sudo dpkg -i SceneBuilder-17.0.0.deb
-    ```
-- [Maven](https://maven.apache.org/install.html) 
-  ```bash
-  sudo apt install maven
-  ```
 </details>
 
 <br>
@@ -178,13 +136,11 @@ on your computer.
    ![](../images/58_setup_vscode_03.png)
 
 
-You can check if your installations of java and maven were successful by typing
+You can check if your installations of java was successful by typing
 
-```mvn --version```
+```java --version```
 
-into your local terminal. The output should look like this: 
-
- ![](../images/mvnversion.png)
+into your local terminal.
 
 Once you have finished these installations, you can continue with course 1.
 
