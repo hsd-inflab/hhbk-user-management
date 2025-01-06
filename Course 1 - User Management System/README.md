@@ -2,7 +2,7 @@
 ### Task: Implement a User Managment System for the Command Line
 ______
 
-**ATTENTION:** Please **do not** use any of your actual passwords for this excercise, as they can be seen in plain text and may be saved in plain text on the computer.
+**ATTENTION:** Please **do not** use any of your actual passwords for this exercise, as they can be seen in plain text and may be saved in plain text on the computer.
 
 Think of new, unique passwords that you never used and never will use.
 ______
