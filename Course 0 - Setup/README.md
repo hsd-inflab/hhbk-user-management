@@ -8,8 +8,6 @@ For the following courses you need to install
 
 on your computer.
 
-These tools are already installed on the computers in the HSD lab, you ***do not*** need to install them there!
-
 ##### If you are working with your ***own*** computer, the installation process is shown below: 
 
 <details>
