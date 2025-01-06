@@ -32,7 +32,7 @@ For this group project, you may use either C# or Java in a IDE of your choice. A
    1. at first in a procedual manner (with static methods within one class)
    2. using an object-oriented approach
 
-7. Upload both of your solutions two your assigned repository on github.
+7. Upload both of your solutions to your assigned repository on github.
    
     The full documentation for String Class (in Java) can be found [here](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html)
 
