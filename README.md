@@ -7,3 +7,5 @@ Im oberen Bereich sind Unterordner mit den Beschreibungen für den Versuch angel
 Die Durchführung des Versuchs kann entweder mit den Ihnen bekannten Arbeitsmitteln (C# und Visual Studio) oder in Java erfolgen.
 
 Falls Sie Java und VS Code nutzen möchten: Bitte beachten Sie, vor der Durchführung den Course 0 - Setup zu absolvieren.
+
+Die Abgabe der Programme erfolgt in den Gruppenrepositories (hhbk-aif**-*)
