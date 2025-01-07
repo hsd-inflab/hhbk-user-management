@@ -23,16 +23,19 @@ For this group project, you may use either C# or Java in a IDE of your choice. A
 4. To select a functionality, the user shall enter the number designating the submenu.
 5. The following contraints apply:
      1. each user must enter a password upon account creation.
-     2. to change user, the new users password needs to be confirmed.
-     3. admin account can not be removed and only the admin account is allowed to delete users.
-     4. if the password change is permitted, the user must confirm the new password by entering it again.
-     5. the program shall loop and only terminate when exiting the program via menu option "exit".
-     6. the password shall be stored only as a hash and not as plain text.
-6. The program should be implemented in two steps:
-   1. at first in a procedual manner (with static methods within one class)
-   2. using an object-oriented approach
+     2. the password shall be stored only as a hash and not as plain text.
+     3. the program shall loop and only terminate when exiting the program via menu option "exit".
 
-7. Upload both of your solutions to your assigned repository on github.
+6. ***OPTIONAL*** Constraints:   
+     1. to change user, the new users password needs to be confirmed.
+     2. admin account can not be removed and only the admin account is allowed to delete users.
+     3. if the password change is permitted, the user must confirm the new password by entering it again.
+        
+7. The program should be implemented in two steps:
+   1. at first in a procedual manner (with static methods within one class)
+   2. using an object-oriented approach (with a User class und UserManager class)
+
+8. Upload both of your solutions to your assigned repository on github.
    
     The full documentation for String Class (in Java) can be found [here](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html)
 
