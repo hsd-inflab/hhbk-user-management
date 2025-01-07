@@ -1,5 +1,6 @@
 ## Course: User Management System
 ### Task: Implement a User Managment System for the Command Line
+Create a Program for Storing User Information such as Name and Password. 
 ______
 
 **ATTENTION:** Please **do not** use any of your actual passwords for this exercise, as they can be seen in plain text and may be saved in plain text on the computer.
@@ -19,7 +20,7 @@ For this group project, you may use either C# or Java in a IDE of your choice. A
      3. remove user
      4. change current users password
      5. exit program
-     6. As the last Menu Point, just print the current user.
+     6. As the last Menu Point, just print the current user so you can see which user is currently logged in
 4. To select a functionality, the user shall enter the number designating the submenu.
 5. The following contraints apply:
      1. each user must enter a password upon account creation.
